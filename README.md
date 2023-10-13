@@ -7,10 +7,3 @@ Ett relativt tomt program som kan utvidgas till att göra enkla matematiska ber�
 ## Uppgift
 
 Lägg till operationer, sub (subtrahera), mult (multiplicera), div (dividera)!
-
-Funktioner att implementera:
-
-* minus
-* multiplikation
-* division
-* hjälpfunktio
