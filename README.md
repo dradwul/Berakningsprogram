@@ -7,6 +7,7 @@ Ett relativt tomt program som kan utvidgas till att göra enkla matematiska ber�
 ## Uppgift
 
 Lägg till operationer, sub (subtrahera), mult (multiplicera), div (dividera)!
+<<<<<<< HEAD
 
 Funktioner att implementera:
 
@@ -14,3 +15,5 @@ Funktioner att implementera:
 * multiplikation
 * division
 * hjälpfunktion
+=======
+>>>>>>> 008c7ee2d1f2a3591a40cfe1a9b4f806c8e83272
